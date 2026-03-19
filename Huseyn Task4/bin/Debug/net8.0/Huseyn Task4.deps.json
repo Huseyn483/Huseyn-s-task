@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Huseyn Task4/1.0.0": {
+        "runtime": {
+          "Huseyn Task4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Huseyn Task4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
