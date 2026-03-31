@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\husey\\Desktop\\Tasks\\Tetil task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77BCCC0D-0592-C6E7-4878-40C726B6FEA9}|Tetil task2\\Tetil task2.csproj|c:\\users\\husey\\desktop\\tasks\\tetil task2\\tetil task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BCCC0D-0592-C6E7-4878-40C726B6FEA9}|Tetil task2\\Tetil task2.csproj|solutionrelative:tetil task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BCCC0D-0592-C6E7-4878-40C726B6FEA9}|Tetil task2\\Tetil task2.csproj|c:\\users\\husey\\desktop\\tasks\\tetil task2\\tetil task2\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BCCC0D-0592-C6E7-4878-40C726B6FEA9}|Tetil task2\\Tetil task2.csproj|solutionrelative:tetil task2\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BCCC0D-0592-C6E7-4878-40C726B6FEA9}|Tetil task2\\Tetil task2.csproj|c:\\users\\husey\\desktop\\tasks\\tetil task2\\tetil task2\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BCCC0D-0592-C6E7-4878-40C726B6FEA9}|Tetil task2\\Tetil task2.csproj|solutionrelative:tetil task2\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BCCC0D-0592-C6E7-4878-40C726B6FEA9}|Tetil task2\\Tetil task2.csproj|c:\\users\\husey\\desktop\\tasks\\tetil task2\\tetil task2\\travel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BCCC0D-0592-C6E7-4878-40C726B6FEA9}|Tetil task2\\Tetil task2.csproj|solutionrelative:tetil task2\\travel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\Tetil task2\\Tetil task2\\Hotel.cs",
+              "RelativeDocumentMoniker": "Tetil task2\\Hotel.cs",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\Tetil task2\\Tetil task2\\Hotel.cs",
+              "RelativeToolTip": "Tetil task2\\Hotel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T17:50:23.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\Tetil task2\\Tetil task2\\Flight.cs",
+              "RelativeDocumentMoniker": "Tetil task2\\Flight.cs",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\Tetil task2\\Tetil task2\\Flight.cs",
+              "RelativeToolTip": "Tetil task2\\Flight.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T17:43:03.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Travel.cs",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\Tetil task2\\Tetil task2\\Travel.cs",
+              "RelativeDocumentMoniker": "Tetil task2\\Travel.cs",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\Tetil task2\\Tetil task2\\Travel.cs",
+              "RelativeToolTip": "Tetil task2\\Travel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T17:36:02.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\Tetil task2\\Tetil task2\\Program.cs",
+              "RelativeDocumentMoniker": "Tetil task2\\Program.cs",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\Tetil task2\\Tetil task2\\Program.cs",
+              "RelativeToolTip": "Tetil task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T17:35:33.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\husey\Desktop\Tasks\Tapsiriqlar\Tapsiriqlar\bin\Debug\net8.0\Tapsiriqlar.exe
+C:\Users\husey\Desktop\Tasks\Tapsiriqlar\Tapsiriqlar\bin\Debug\net8.0\Tapsiriqlar.deps.json
+C:\Users\husey\Desktop\Tasks\Tapsiriqlar\Tapsiriqlar\bin\Debug\net8.0\Tapsiriqlar.runtimeconfig.json
+C:\Users\husey\Desktop\Tasks\Tapsiriqlar\Tapsiriqlar\bin\Debug\net8.0\Tapsiriqlar.dll
+C:\Users\husey\Desktop\Tasks\Tapsiriqlar\Tapsiriqlar\bin\Debug\net8.0\Tapsiriqlar.pdb
+C:\Users\husey\Desktop\Tasks\Tapsiriqlar\Tapsiriqlar\obj\Debug\net8.0\Tapsiriqlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Desktop\Tasks\Tapsiriqlar\Tapsiriqlar\obj\Debug\net8.0\Tapsiriqlar.AssemblyInfoInputs.cache
+C:\Users\husey\Desktop\Tasks\Tapsiriqlar\Tapsiriqlar\obj\Debug\net8.0\Tapsiriqlar.AssemblyInfo.cs
+C:\Users\husey\Desktop\Tasks\Tapsiriqlar\Tapsiriqlar\obj\Debug\net8.0\Tapsiriqlar.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\Tasks\Tapsiriqlar\Tapsiriqlar\obj\Debug\net8.0\Tapsiriqlar.dll
+C:\Users\husey\Desktop\Tasks\Tapsiriqlar\Tapsiriqlar\obj\Debug\net8.0\refint\Tapsiriqlar.dll
+C:\Users\husey\Desktop\Tasks\Tapsiriqlar\Tapsiriqlar\obj\Debug\net8.0\Tapsiriqlar.pdb
+C:\Users\husey\Desktop\Tasks\Tapsiriqlar\Tapsiriqlar\obj\Debug\net8.0\Tapsiriqlar.genruntimeconfig.cache
+C:\Users\husey\Desktop\Tasks\Tapsiriqlar\Tapsiriqlar\obj\Debug\net8.0\ref\Tapsiriqlar.dll
