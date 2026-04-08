@@ -1,0 +1,14 @@
+C:\Users\husey\Desktop\Tasks\Liste gore task\Liste gore task\bin\Debug\net8.0\Liste gore task.exe
+C:\Users\husey\Desktop\Tasks\Liste gore task\Liste gore task\bin\Debug\net8.0\Liste gore task.deps.json
+C:\Users\husey\Desktop\Tasks\Liste gore task\Liste gore task\bin\Debug\net8.0\Liste gore task.runtimeconfig.json
+C:\Users\husey\Desktop\Tasks\Liste gore task\Liste gore task\bin\Debug\net8.0\Liste gore task.dll
+C:\Users\husey\Desktop\Tasks\Liste gore task\Liste gore task\bin\Debug\net8.0\Liste gore task.pdb
+C:\Users\husey\Desktop\Tasks\Liste gore task\Liste gore task\obj\Debug\net8.0\Liste gore task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Desktop\Tasks\Liste gore task\Liste gore task\obj\Debug\net8.0\Liste gore task.AssemblyInfoInputs.cache
+C:\Users\husey\Desktop\Tasks\Liste gore task\Liste gore task\obj\Debug\net8.0\Liste gore task.AssemblyInfo.cs
+C:\Users\husey\Desktop\Tasks\Liste gore task\Liste gore task\obj\Debug\net8.0\Liste gore task.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\Tasks\Liste gore task\Liste gore task\obj\Debug\net8.0\Liste gore task.dll
+C:\Users\husey\Desktop\Tasks\Liste gore task\Liste gore task\obj\Debug\net8.0\refint\Liste gore task.dll
+C:\Users\husey\Desktop\Tasks\Liste gore task\Liste gore task\obj\Debug\net8.0\Liste gore task.pdb
+C:\Users\husey\Desktop\Tasks\Liste gore task\Liste gore task\obj\Debug\net8.0\Liste gore task.genruntimeconfig.cache
+C:\Users\husey\Desktop\Tasks\Liste gore task\Liste gore task\obj\Debug\net8.0\ref\Liste gore task.dll
