@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\husey\\Desktop\\Tasks\\Tetil task1\\Tetil task1\\Tetil task1.csproj": {}
+    "C:\\Users\\husey\\Desktop\\Evde tasklar\\Tetil tasklari umumi\\Tetil task1\\Tetil task1\\Tetil task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\husey\\Desktop\\Tasks\\Tetil task1\\Tetil task1\\Tetil task1.csproj": {
+    "C:\\Users\\husey\\Desktop\\Evde tasklar\\Tetil tasklari umumi\\Tetil task1\\Tetil task1\\Tetil task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\husey\\Desktop\\Tasks\\Tetil task1\\Tetil task1\\Tetil task1.csproj",
+        "projectUniqueName": "C:\\Users\\husey\\Desktop\\Evde tasklar\\Tetil tasklari umumi\\Tetil task1\\Tetil task1\\Tetil task1.csproj",
         "projectName": "Tetil task1",
-        "projectPath": "C:\\Users\\husey\\Desktop\\Tasks\\Tetil task1\\Tetil task1\\Tetil task1.csproj",
+        "projectPath": "C:\\Users\\husey\\Desktop\\Evde tasklar\\Tetil tasklari umumi\\Tetil task1\\Tetil task1\\Tetil task1.csproj",
         "packagesPath": "C:\\Users\\husey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\husey\\Desktop\\Tasks\\Tetil task1\\Tetil task1\\obj\\",
+        "outputPath": "C:\\Users\\husey\\Desktop\\Evde tasklar\\Tetil tasklari umumi\\Tetil task1\\Tetil task1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
