@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Ana konteyner - hər şeyi yan-yana düzən budur */
+.list {
+    background-color: black;
+    display: flex;
+    justify-content: space-between; /* Menyunu sola, ikonu sağa sıxır */
+    align-items: center; /*Şaquli olaraq mərkəzləyir */
+    height: 46px; /* Sabit hündürlük */
+}
+
+/* Menyu siyahısı */
+.list ul {
+    display: flex;
+    list-style: none;
+}
+.list ul li a:hover{
+     background-color: gray;
+     color: black;
+}
+
+/* Linklərin stili */
+.list ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 24px; /* Hündürlüyə uyğun padding */
+}
+
+/* Axtarış ikonu sahəsi */
+.search {
+    padding: 0 24px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.search i {
+    color: white;
+}
+
+/* İkonun üzərinə gələndə qırmızı olması */
+.search:hover {
+    background-color: #f44336;
+}
+
+/* Şəkil */
+.photo img {
+    width: 100%;
+    display: block;
+}
+
+
+
+/* 1. Bölmənin ana konteyneri */
+.band-section {
+    max-width: 800px;  /* Mətnin çox yayılmaması üçün enini limitləyirik */
+    margin: 0 auto;    /* Bölməni ekranın tam ortasına gətirir */
+    padding: 64px 16px; /* Yuxarıdan və aşağıdan geniş boşluq verir */
+    text-align: center; /* İçindəki hər şeyi mərkəzə düzür */
+}
+
+
+/* 2. Başlıqlar və Mətn */
+.section-title {
+    margin: 10px 0;
+}
+
+.section-subtitle {
+    font-style: italic;
+    opacity: 0.6; /* Yazını bir az solğun (boz) edir */
+    margin: 15px 0;
+}
+
+.about-text {
+    text-align: justify; /* Mətni hər iki tərəfdən düz xətt boyunca bərabərləşdirir */
+    line-height: 1.5;    /* Sətirlərin bir-birinə yapışmaması üçün məsafə */
+}
+
+
+/* Üzvlərin ümumi siyahısı */
+.members-list {
+    display: flex;             /* Şəkilləri yan-yana düzür */
+    justify-content: space-around; /* Aralarında bərabər məsafə qoyur */
+    padding: 32px 0;           /* Yuxarı və aşağıdan boşluq */
+}
+
+/* Hər bir üzv konteyneri */
+.member {
+    text-align: center;        /* Adı və şəkli mərkəzləyir */
+}
+
+.member p {
+    margin: 15px 0;            /* Adın yuxarı-aşağı məsafəsi */
+    font-size: 15px;
+}
+
+/* Şəklin özü */
+.member img {
+    width: 154px;              /* Şəklin eni */
+    border-radius: 4px;        /* Küncləri azca yumşaldır */
+    transition: opacity 0.3s;  /* Az öncə danışdığımız hover effekti üçün */
+}
+
+/* Şəklin üzərinə gələndə (Hover) */
+.member img:hover {
+    opacity: 0.6;              /* Şəkli bir az şəffaflaşdırır (şəkildəki stil) */
+}
