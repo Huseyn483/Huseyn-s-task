@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: #f0f3f7;
+    width: 70%;
+    margin: 0 auto;
+    padding: 30px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.container .car-item{
+    width: 22%;
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 20px; 
+}
+
+.container .car-item img{
+    max-width: 100%;
+    height: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.container .car-item .car-item_content{
+    padding: 15px;
+}
