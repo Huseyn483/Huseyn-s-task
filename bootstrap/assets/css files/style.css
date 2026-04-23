@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menyu {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f1f1f1;
+    padding: 20px 50px;
+}
+
+.sol-teref {
+    display: flex;
+    align-items: center;
+}
+
+.sol-teref ul {
+    display: flex;
+    list-style: none;
+    margin-left: 20px;
+}
+
+.sol-teref ul li {
+    margin-right: 15px;
+}
+
+.sol-teref ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.sebet {
+    padding: 8px 15px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    transition: 0.3s; 
+}
+
+.sebet:hover {
+    background-color: black;
+    color: white;
+}
+
+.qara-basliq {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+}
+
+main {
+    padding: 50px;
+}
+
+.mehsullar {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+    gap: 30px;
+}
+
+.mehsul-qutusu {
+    width: 250px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    padding-bottom: 20px;
+    position: relative; 
+}
+
+.mehsul-qutusu img {
+    width: 100%;
+    height: 180px;
+}
+
+.endirim {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    font-size: 12px;
+    border-radius: 5px;
+}
+
+.yazi-hissesi {
+    padding: 15px;
+}
+
+.ulduzlar {
+    color: orange;
+    margin-bottom: 10px;
+}
+
+.duyme {
+    background-color: white;
+    border: 1px solid black;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 40px;
+    margin-top: 30px;
+}
