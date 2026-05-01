@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #141414;
+    font-family: Arial, sans-serif;
+}
+
+.container{
+    width: 90%;
+    margin: 30px auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.film{
+    background-color: #1f1f1f;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.film:hover{
+    transform: scale(1.05);
+}
+
+.film img{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.film p{
+    color: white;
+    font-size: 14px;
+    padding: 10px;
+}
+
+.film span{
+    color: #b3b3b3;
+    font-size: 12px;
+    padding: 0 10px 5px 10px;
+    display: block;
+}
+
+
+
