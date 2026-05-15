@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|c:\\users\\husey\\desktop\\tasks\\mvcdewicrud\\mvcdewicrud\\areas\\adminpanel\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|solutionrelative:mvcdewicrud\\areas\\adminpanel\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|c:\\users\\husey\\desktop\\tasks\\mvcdewicrud\\mvcdewicrud\\areas\\adminpanel\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|solutionrelative:mvcdewicrud\\areas\\adminpanel\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|c:\\users\\husey\\desktop\\tasks\\mvcdewicrud\\mvcdewicrud\\areas\\adminpanel\\viewmodel\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|solutionrelative:mvcdewicrud\\areas\\adminpanel\\viewmodel\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|c:\\users\\husey\\desktop\\tasks\\mvcdewicrud\\mvcdewicrud\\areas\\adminpanel\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|solutionrelative:mvcdewicrud\\areas\\adminpanel\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|c:\\users\\husey\\desktop\\tasks\\mvcdewicrud\\mvcdewicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|solutionrelative:mvcdewicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|c:\\users\\husey\\desktop\\tasks\\mvcdewicrud\\mvcdewicrud\\areas\\adminpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|solutionrelative:mvcdewicrud\\areas\\adminpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|c:\\users\\husey\\desktop\\tasks\\mvcdewicrud\\mvcdewicrud\\areas\\adminpanel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|solutionrelative:mvcdewicrud\\areas\\adminpanel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|c:\\users\\husey\\desktop\\tasks\\mvcdewicrud\\mvcdewicrud\\areas\\adminpanel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|solutionrelative:mvcdewicrud\\areas\\adminpanel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|c:\\users\\husey\\desktop\\tasks\\mvcdewicrud\\mvcdewicrud\\areas\\adminpanel\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|solutionrelative:mvcdewicrud\\areas\\adminpanel\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|c:\\users\\husey\\desktop\\tasks\\mvcdewicrud\\mvcdewicrud\\areas\\adminpanel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|solutionrelative:mvcdewicrud\\areas\\adminpanel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|c:\\users\\husey\\desktop\\tasks\\mvcdewicrud\\mvcdewicrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|solutionrelative:mvcdewicrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|c:\\users\\husey\\desktop\\tasks\\mvcdewicrud\\mvcdewicrud\\dal\\dewidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|solutionrelative:mvcdewicrud\\dal\\dewidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|c:\\users\\husey\\desktop\\tasks\\mvcdewicrud\\mvcdewicrud\\mvcdewicrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|solutionrelative:mvcdewicrud\\mvcdewicrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|c:\\users\\husey\\desktop\\tasks\\mvcdewicrud\\mvcdewicrud\\models\\dewi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|solutionrelative:mvcdewicrud\\models\\dewi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|c:\\users\\husey\\desktop\\tasks\\mvcdewicrud\\mvcdewicrud\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|solutionrelative:mvcdewicrud\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|c:\\users\\husey\\desktop\\tasks\\mvcdewicrud\\mvcdewicrud\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{887D99A8-F07A-1F29-D4F8-B412C849BC0C}|MvcDewiCRUD\\MvcDewiCRUD.csproj|solutionrelative:mvcdewicrud\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Areas\\AdminPanel\\Views\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcDewiCRUD\\Areas\\AdminPanel\\Views\\Member\\Create.cshtml",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Areas\\AdminPanel\\Views\\Member\\Create.cshtml",
+              "RelativeToolTip": "MvcDewiCRUD\\Areas\\AdminPanel\\Views\\Member\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-14T08:09:00.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Areas\\AdminPanel\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MvcDewiCRUD\\Areas\\AdminPanel\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Areas\\AdminPanel\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MvcDewiCRUD\\Areas\\AdminPanel\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T22:16:22.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MvcDewiCRUD\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MvcDewiCRUD\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T22:05:55.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "MvcDewiCRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Program.cs",
+              "RelativeToolTip": "MvcDewiCRUD\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T20:41:20.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Areas\\AdminPanel\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "MvcDewiCRUD\\Areas\\AdminPanel\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Areas\\AdminPanel\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "MvcDewiCRUD\\Areas\\AdminPanel\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T22:13:45.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Areas\\AdminPanel\\ViewModel\\CreateVM.cs",
+              "RelativeDocumentMoniker": "MvcDewiCRUD\\Areas\\AdminPanel\\ViewModel\\CreateVM.cs",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Areas\\AdminPanel\\ViewModel\\CreateVM.cs",
+              "RelativeToolTip": "MvcDewiCRUD\\Areas\\AdminPanel\\ViewModel\\CreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:23:44.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Areas\\AdminPanel\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcDewiCRUD\\Areas\\AdminPanel\\Views\\Member\\Index.cshtml",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Areas\\AdminPanel\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "MvcDewiCRUD\\Areas\\AdminPanel\\Views\\Member\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T22:14:09.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcDewiCRUD\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcDewiCRUD\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAcwNQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T21:33:25.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcDewiCRUD\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "MvcDewiCRUD\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T21:11:38.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MvcDewiCRUD\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MvcDewiCRUD\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T21:07:31.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dewi.cs",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Models\\Dewi.cs",
+              "RelativeDocumentMoniker": "MvcDewiCRUD\\Models\\Dewi.cs",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Models\\Dewi.cs",
+              "RelativeToolTip": "MvcDewiCRUD\\Models\\Dewi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T20:53:50.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcDewiCRUD\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcDewiCRUD\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T10:50:24.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DewiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\DAL\\DewiDbContext.cs",
+              "RelativeDocumentMoniker": "MvcDewiCRUD\\DAL\\DewiDbContext.cs",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\DAL\\DewiDbContext.cs",
+              "RelativeToolTip": "MvcDewiCRUD\\DAL\\DewiDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T11:21:37.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MvcDewiCRUD.csproj",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\MvcDewiCRUD.csproj",
+              "RelativeDocumentMoniker": "MvcDewiCRUD\\MvcDewiCRUD.csproj",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\MvcDewiCRUD.csproj",
+              "RelativeToolTip": "MvcDewiCRUD\\MvcDewiCRUD.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-13T20:40:57.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "MvcDewiCRUD\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\Models\\BaseModel.cs",
+              "RelativeToolTip": "MvcDewiCRUD\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:23:50.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MvcDewiCRUD\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\husey\\Desktop\\Tasks\\MvcDewiCRUD\\MvcDewiCRUD\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MvcDewiCRUD\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-13T20:42:56.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

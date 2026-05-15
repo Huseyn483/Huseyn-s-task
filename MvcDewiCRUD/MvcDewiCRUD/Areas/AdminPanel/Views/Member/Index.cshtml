@@ -1,0 +1,65 @@
+﻿
+@model IEnumerable<Dewi>
+@{
+    int count = 1;
+}
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Member table</h4>
+            <a class="btn btn-primary" asp-controller="Member" asp-action="Create">Create Member</a>
+          
+            <div class="table-responsive pt-3">
+                <table class="table table-dark">
+                    <thead>
+                        <tr>
+                            <th>
+                                count
+                            </th>
+                            <th>
+                                PhotoUrl
+                            </th>
+                            <th>
+                                Name
+                            </th>
+                            <th>
+                                Description
+                            </th>
+                            <th>
+                                Setting
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach(var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @count
+                                </td>
+                                <td>
+                                    <img src="~/assets/img/team/@item.PhotoUrl" />
+                                    
+                                </td>
+                                <td>
+                                    @item.Name
+                                </td>
+                                <td>
+                                    @item.Description
+                                </td>
+                                <td>
+                                    <a>Update</a>
+                                    <a>Delete</a>
+                                </td>
+                            </tr>
+                            count++;
+                        }
+                      
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
